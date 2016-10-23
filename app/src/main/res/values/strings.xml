@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMultiWindow</string>
+    <string name="title_second_activity">Second Activity</string>
+    <string name="title_first_activity">First Activity</string>
+    <string name="button_first_activity">Goto second activity</string>
+    <string name="button_second_activity">Goto first activity</string>
+</resources>
